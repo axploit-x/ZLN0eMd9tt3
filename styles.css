@@ -1,0 +1,18 @@
+.vkb:hover {
+    border: solid 0.5px rgb(0, 0, 0);
+    background-color: rgb(60, 255, 0);
+}
+.ghb:hover {
+    border: solid 0.5px rgb(0, 0, 0);
+    background-color: rgb(60, 255, 0);
+}
+.submit:hover {
+    background-color: rgb(60, 255, 0);
+    border: solid 2px gray;
+}
+.op:hover {
+    background-color: rgb(60, 255, 0);
+}
+.war:hover {
+    color: darkred;
+}
